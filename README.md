@@ -15,7 +15,7 @@ Enter
 5. pkg install git
 Enter
 
-7. git clone https://github.com/mrubay/claim
+7. git clone https://github.com/meijanis/claim
 Enter
 Lalu masukan kode perintah untuk menjalankan script , Kode dibawah ini untuk daftar dan auto claim voucher gofood gojek
 8. cd claim
